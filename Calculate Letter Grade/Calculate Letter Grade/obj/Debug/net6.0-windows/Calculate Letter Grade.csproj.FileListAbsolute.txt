@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate_Letter_Grade.Form1.resources
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.AssemblyInfo.cs
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.exe
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.deps.json
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.runtimeconfig.json
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.dll
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\bin\Debug\net6.0-windows\Calculate Letter Grade.pdb
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.dll
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\refint\Calculate Letter Grade.dll
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.pdb
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\Calculate Letter Grade.genruntimeconfig.cache
+C:\Users\Student\source\repos\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\net6.0-windows\ref\Calculate Letter Grade.dll
